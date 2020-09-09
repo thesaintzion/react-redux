@@ -1,0 +1,9 @@
+.users-list{
+    // padding: 20px;
+}
+
+.MuiListItem-root{
+    &:hover{
+        background-color: #eee;
+    }
+}
